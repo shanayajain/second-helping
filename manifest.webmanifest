@@ -1,0 +1,15 @@
+{
+  "name": "Second Helping",
+  "short_name": "Helping",
+  "description": "Weight-gain meal planner for hostel life",
+  "start_url": "./index.html#today",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f4ef",
+  "theme_color": "#23684e",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
